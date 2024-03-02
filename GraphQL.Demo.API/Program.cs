@@ -1,4 +1,4 @@
-using GraphQL.Demo.API.Schema;
+using GraphQL.Demo.API.Schema.Queries;
 
 namespace GraphQL.Demo.API
 {
